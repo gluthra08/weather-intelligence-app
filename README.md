@@ -3,7 +3,7 @@
 A modern, highly responsive single-page web application designed to translate real-time meteorological metrics into actionable business and travel planning insights. This application was prototyped using "vibe coding" methodologies in Google AI Studio App Build [16], synchronized directly with GitHub, and deployed on Cloudflare Pages' global serverless edge network [2, 11].
 
 ## 🚀 Live Demo
-🔗 **Live Application URL:** [https://]
+🔗 **Live Application URL:** [https://weather-intelligence-app.gluthra.workers.dev/]
 
 ## 🛡️ GRC & Security Compliance
 In strict alignment with corporate data security and governance protocols:
